@@ -1,2 +1,2 @@
 alert('hello');
-console.log('hello');
+console.log('hello version 2');
